@@ -1,3 +1,7 @@
+#Hi there, if you have any feedback on the code,
+#feel free to contact me on linkedin
+#https://www.linkedin.com/in/tyson-cheah
+
 def check_arranger(number1, operator, number2):
     try:
         if operator != '+' and operator != '-':
